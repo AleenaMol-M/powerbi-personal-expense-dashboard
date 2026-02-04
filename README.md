@@ -18,6 +18,8 @@ The dashboard analyzes personal expenses and provides insights using visuals.
 
 ##Dashboard Preview
 ![Dashboard](expense_dashboard1.png)
+![Dashboard](expense_dashboard2.png)
+![Dashboard](expense_dashboard3.png)
 
 ##Files
 - Personal_Expense_Dashboard.pbix – Power BI report file
